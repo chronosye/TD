@@ -1,0 +1,21 @@
+a.btn {
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    background: #8100d0;
+    height: 60px;
+    width: 194px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a.btn:hover{
+    color: #8100d0;
+    background: #ffffff;
+    border:#8100d0 2px solid;
+}
+
