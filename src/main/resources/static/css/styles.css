@@ -3,7 +3,7 @@ a.btn {
     color: rgb(255, 255, 255);
     background: #8100d0;
     height: 60px;
-    width: 194px;
+    min-width: 194px;
     border-radius: 30px;
     font-size: 18px;
     font-family: Poppins, sans-serif;
